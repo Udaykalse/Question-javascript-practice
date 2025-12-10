@@ -4,7 +4,7 @@ function reverseArray(arr) {
 
 console.log(reverseArray([1, 2, 3, 4]));
 
-console.log("-------------without method------------------------");
+console.log("-------------without method below------------------------");
 
 function reverseArray1(arr1) {
   const result = [];

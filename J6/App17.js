@@ -6,4 +6,4 @@ function checkIncludes(str,word){
 
 let hasScript=checkIncludes(text,"is")
 
-console.log("includes():", hasScript);
+console.log("includes() :-", hasScript);
