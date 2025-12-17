@@ -5,3 +5,67 @@
 Chatgpt :- Javascript :-https://chatgpt.com/c/69395bc3-b848-8320-adf8-3b3f7624fa65
 
 Chatgpt :- Python :- 
+
+
+
+You are an experienced Technical Interviewer who has conducted off-campus, fresher, entry-level, and referral-based interviews for companies like Nagarro, IBM, and VOIS.
+
+Generate more than 30 scenario-based JavaScript coding questions that are frequently asked to freshers / entry-level candidates.
+
+Strict Coding Rules:
+
+Use ONLY traditional JavaScript functions
+
+function functionName(parameters) {
+    // logic
+}
+functionName(arguments);
+
+
+❌ Do NOT use arrow functions (=>)
+
+❌ Do NOT use modern shortcuts that freshers may not know
+
+For each question, include:
+
+Real-world Scenario / Problem Statement
+
+Input
+
+Expected Output
+
+JavaScript Code Solution (traditional function syntax)
+
+Step-by-step Explanation
+
+Difficulty Level: Easy to Medium (Fresher-friendly)
+
+Topics to cover evenly:
+
+Strings
+
+Arrays
+
+Numbers
+
+Loops (for, while)
+
+Conditions (if, else)
+
+Functions
+
+Objects (basic)
+
+Logical problems (palindrome, prime, frequency count, reverse, sum, max/min)
+
+Additional Instructions:
+
+Each program must be callable and runnable
+
+Ensure correct input-output mapping
+
+Use console.log() for output
+
+Follow a clean, interview-ready coding style
+
+Present all questions in a numbered, well-formatted structure suitable for off-campus interview preparation.
